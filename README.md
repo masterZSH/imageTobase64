@@ -27,3 +27,9 @@ Content-Disposition: form-data; name="file"; filename="/C:/Users/Pictures/_编�
 
 ------WebKitFormBoundary7MA4YWxkTrZu0gW--
 ```
+
+
+使用示例
+===
+
+![示例](https://github.com/masterZSH/imageTobase64/blob/master/src/1.gif)
